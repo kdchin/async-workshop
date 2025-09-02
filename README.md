@@ -6,7 +6,7 @@ In this workshop, you will:
 - understand how asyncronicity impacts ordering of code execution
 - learn how to test asynchronous code
 
-A reference solution is found on the `solutions` branch.
+A reference solution is found on the `solution` branch.
 We recommend you practice this exeercie **without** AI tools -- it's meant to help you learn!
 
 The exercises for you to complete are specified below.
