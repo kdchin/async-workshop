@@ -1,4 +1,4 @@
-import { logLinesWithKeywordCallback, getAllKeywordLines, getAllKeywordLinesSlow } from "./readfile";
+import { logLinesWithKeywordCallback, getAllKeywordLines } from "./readfile";
 
 async function main() {
     // sample invocations

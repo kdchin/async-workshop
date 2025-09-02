@@ -33,44 +33,21 @@ function logLinesWithKeywordCallback(filePath: string, keyword: string): number 
  * Using promise.then(), logs out each line in the file at `filePath` that contains `keyword`.
  */
 function logLinesWithKeywordPromise(filePath: string, keyword: string): number {
-    let count = 0;
-    fs.promises.readFile(filePath, 'utf-8').then((data => {
-        const lines = data.split(/\r?\n/);
-        for (const line of lines) {
-            if (line.includes(keyword)) {
-                console.log(line);
-                count++;
-            }
-        }
-    })).catch((err) => {
-        console.error(err);
-    });
-    return count;
+    // TODO: fill in
+    return 0;
 }
 
 /**
  * 
  * @param filePath - path to the file to read
  * @param keyword  - token to find in the file
+ * @returns a promise containing the number of lines found.
  * 
  * Using await, logs out each line in the file at `filePath` that contains `keyword`.
  */
 async function logLinesWithKeywordAwait(filePath: string, keyword: string) {
-    let data;
-    let count = 0;
-    try {
-        data = await fs.promises.readFile(filePath, 'utf-8');
-    } catch {
-        return 0;
-    }
-    const lines = data.split(/\r?\n/);
-    for (const line of lines) {
-        if (line.includes(keyword)) {
-            console.log(line);
-            count++;
-        }
-    }
-    return count;
+    // TODO: fill in
+    return;
 }
 
 /**
@@ -80,20 +57,8 @@ async function logLinesWithKeywordAwait(filePath: string, keyword: string) {
  * @returns  Using await, returns out each line in the file at `filePath` that contains `keyword`.
  */
 async function getLinesWithKeyword(filePath: string, keyword: string): Promise<Array<String>> {
-    let data;
-    try {
-        data = await fs.promises.readFile(filePath, 'utf-8');
-    } catch {
-        return Promise.reject("Error!!");
-    }
-    const lines = data.split(/\r?\n/);
-    const result = [];
-    for (const line of lines) {
-        if (line.includes(keyword)) {
-            result.push(line);
-        }
-    }
-    return Promise.resolve(result);
+    // TODO: fill in
+    return Promise.resolve([]);
 }
 
 
@@ -104,20 +69,8 @@ async function getLinesWithKeyword(filePath: string, keyword: string): Promise<A
  * @returns  returns out each line in the files in `path` that contain `keyword`.
  */
 async function getAllKeywordLinesSlow(path: string, keyword: string) : Promise<Array<String>> {
-    let files;
-    try {
-        files = await fs.promises.readdir(path);
-    } catch {
-        return Promise.reject("Error!");
-    }
-    const validLines: Array<String> = [];
-    for (const filepath of files) {
-        if (filepath.includes("script")) {
-            const linesWithKeyword = await getLinesWithKeyword(path + "/" + filepath, keyword);
-            validLines.push(...linesWithKeyword);
-        }
-    }
-    return validLines;
+    // TODO: fill in
+    return Promise.resolve([]);
 }
 
 
@@ -128,20 +81,8 @@ async function getAllKeywordLinesSlow(path: string, keyword: string) : Promise<A
  * @returns  Using Promise.all(), returns out each line in the files in `path` that contain `keyword`.
  */
 async function getAllKeywordLines(path: string, keyword: string) : Promise<Array<String>> {
-    let files;
-    try {
-        files = await fs.promises.readdir(path);
-    } catch {
-        return Promise.reject("Error!");
-    }
-    const validFilePromises: Array<Promise<Array<String>>> = [];
-    for (const filepath of files) {
-        if (filepath.includes("script")) {
-            validFilePromises.push(getLinesWithKeyword(path + "/" + filepath, keyword));
-        }
-    }
-    const data = (await Promise.all(validFilePromises)).flat()
-    return Promise.resolve(data);
+    // TODO: fill in
+    return Promise.resolve([]);
 }
 
 

@@ -80,7 +80,7 @@ Now, uing `async/await` syntax, fill in `logLinesWithKeywordAwait` and verify it
 Using `async/await` makes it easier for us to return values and actually use them! Now we will try to do something useful with the results! Instead of logging the lines and returning the count, we just want to return all the lines.
 If the function is successful, it should return a `Promise` containing the appropriate lines, and if it is unsuccessful, it should return a rejected promise that says `"Error!!"`.
 
-**Task 3.A:** Fill in  `getLinesWithKeyword` (hint: it will be very similar to part 2's code!)
+**Task 3.A:** Fill in  `getLinesWithKeyword` (hint: it will be very similar to part 2's code!). Remember to fill in the return type annotation for the function signature!
 
 **Task 3.B:** Write tests for the successful execution case in [test/readfile.spec.ts](test/readfile.spec.ts). You can run tests with the command `yarn test`!
 
