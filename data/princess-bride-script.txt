@@ -1,0 +1,1317 @@
+                              "The Princess Bride"
+                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-- the strictly unofficial script of the movie,
+   done in a fit of boredom by [BCT 05/Mar/94]
+   "Ray Tracey"; WWIV 119@7729
+   (btman@cco.caltech.edu)
+
+The Cast (in order of appearance [roughly]):
+        THE KID: Fred Savage
+        MOM: Betsy Brantley
+        GRANDPA: Peter Falk
+        THE PRINCESS BRIDE: Robin Wright
+        WESTLEY: Cary Elwes
+        PRINCE HUMPERDINCK: Chris Sarandon
+        VIZZINI: Wallace Shawn
+        INIGO MONTOYA: Mandy Patinkin
+        FEZZIK: Andre the Giant
+        COUNT RUGEN: Christopher Guest
+        ALBINO: Mel Smith
+        YELLIN: Malcolm Storry
+        ASSISTANT BRUTE: Paul Badger
+        WOMAN (ANCIENT BOOER): Margery Mason
+        MIRACLE MAX: Billy Crystal
+        VALERIE: Carol Kane
+        PRIEST (IMPRESSIVE CLERGYMAN): Peter Cook
+        KING: Willoughby Gray
+        QUEEN: Anne Dyson
+
+******************************
+
+KID: <hack hack hack hack hack hack>
+MOM: Hi, honey.
+KID: Hi, mom.
+MOM: Feeling any better?
+KID: A little bit.
+MOM: Guess what?
+KID: What?
+MOM: Grandfather's here.
+KID: Mom, can't you tell him I'm sick?
+MOM: You're sick? That's why he's here.
+KID: He'll pinch my cheek. I HATE that.
+MOM: Maybe he won't.
+GRANDPA: Hey! How's the sickie? Heh? <pinch>
+MOM: I think I'll leave you two pals alone.
+GRANDPA: I brought you a special present.
+KID: What is it?
+GRANDPA: Open it up.
+KID: A book?
+GRANDPA: That's right. When I was your age, television was called "books."
+        And this is a special book. It was the book my father used to read to 
+        me when I was sick, and I used to read it to your father. And today
+        I'm gonna read it to you.
+KID: 'S it got any sports in it?
+GRANDPA: Are you kidding? Fencing, fighting, torture, revenge, giants,
+        monsters, chases, escapes, true love, miracles...
+KID: Doesn't sound too bad. I'll try and stay awake.
+GRANDPA: Oh, well... thank you very much. That's very nice of you. Your vote
+        of confidence is overwhelming. All right: The Princess Bride, by S.
+        Morgenstern. Chapter 1: "Buttercup was raised on a small farm in the
+        country of Florin. Her favorite pastimes were riding her horse and
+        tormenting the farm boy that worked there. His name was Westley, but
+        she never called him that." Isn't that a wonderful beginning?
+KID: Yeah, it's really good.
+GRANDPA: "Nothing gave Buttercup as much pleasure as ordering Westley around.
+BUTTERCUP: Farm boy! Polish my horse's saddle. I want to see my face shining
+        in it by morning.
+WESTLEY: As you wish.
+GRANDPA: "As you wish" was all he ever said.
+BUTTERCUP: Farm boy, fill these with water.  ...please.
+WESTLEY: As you wish.
+GRANDPA: That day she was amazed to discover that when he was saying "as you
+        wish," what he meant was "I love you." And even more amazing was the
+        day she realized she truly loved him back.
+BUTTERCUP: Farm boy! ...fetch me that pitcher?
+WESTLEY: As you wish.
+-------------------
+KID: Hold it, hold it. What is this? Are you trying to trick me? And- where's
+        the sports? ...Is this a kissing book??
+GRANDPA: Wait, just wait.
+KID: Well, when's it get good?
+GRANDPA: Keep your shirt on, let me read. "Westley had no money for marriage, 
+        so he packed his few belongings and left the farm to seek his fortune 
+        across the sea. It was a very emotional time for Buttercup.
+KID: I don't believe this.
+BUTTERCUP: I fear I'll never see you again.
+WESTLEY: Of course you will.
+BUTTERCUP: But what if something happens to you?
+WESTLEY: Hear this now. I will always come for you.
+BUTTERCUP: But how can you be sure?
+WESTLEY: This is true love. Think this happens every day? <smooch>
+GRANDPA: Westley didn't reach his destination. His ship was attacked by the
+        Dread Pirate Roberts, who never left captives alive. When Buttercup
+        got the news that Westley was murdered--
+KID: Murdered by pirates is good.
+GRANDPA: --she went into her room and shut the door; and for days she neither 
+        slept nor ate.
+BUTTERCUP: I will never love again.
+-----------------------
+        <baa baa>
+GRANDPA: Five years later, the main square of Florin City was filled as never 
+        before, to hear the announcement of the great Prince Humperdinck's
+        bride-to-be.
+        <fanfare>
+PRINCE: My people! A month from now, our country will have its 500th
+        anniversary. On that sundown, I shall marry a lady who was once a
+        commoner like yourselves. But perhaps you will not find her "common"
+        now. Would you like to meet her?
+CROWD: <cheer>
+PRINCE: My people: the Princess Buttercup!
+        <fanfare>
+GRANDPA: Buttercup's emptiness consumed her. Although the law of the land
+        gave Humperdinck the right to choose his bride, she did not love him.
+        <music> Despite Humperdinck's reassurance that she would grow to love
+        him, the only joy she found was in her daily ride.
+VIZZINI: A word, my lady. We are but poor, lost circus performers. Is there a 
+        village nearby?
+BUTTERCUP: There is nothing nearby, not for miles.
+VIZZINI: Then there will be no one to hear you scream.
+        <ack>
+
+INIGO: What is that you're ripping?
+VIZZINI: It's fabric from the uniform of an army officer of Guilder.
+FEZZIK: Who's Guilder?
+VIZZINI: The country across the sea! The sworn enemy of Florin! Go! <smack>
+        Once the horse reaches the castle, the fabric will make the Prince
+        suspect the Guilderians have abducted his love. When he finds her
+        body dead on the Guilder frontier, his suspicions will be totally
+        confirmed.
+FEZZIK: You never said anything about killing anyone.
+VIZZINI: I've hired you to help me start a war. It's a prestigious line of
+        work, with a long and glorious tradition.
+FEZZIK: I just don't think it's right, killing an innocent girl.
+VIZZINI: Am I going mad, or did the word "think" escape your lips? You were
+        not hired for your brains, you hippopotamic landmass!
+INIGO: I agree with Fezzik.
+VIZZINI: Oh, the sot has spoken! What happens to her is not truly your
+        concern. I will kill her. And remember this-- never forget this: when 
+        I found you, you were so slobbering drunk, you couldn't buy brandy!
+        And you: friendless! Brainless! Helpless! Hopeless! Do you want me to 
+        send you back to where you were? Unemployed? In Greenland??
+
+INIGO: Vizzini... he can... FUSS.
+FEZZIK: Fuss, fuss... think he like to scream at US.
+INIGO: Probably he means no... HARM.
+FEZZIK: He's very very short on... CHARM.
+INIGO: You have a great gift for rhyme.
+FEZZIK: Yes, yes... some of the time.
+VIZZINI: Enough of that!
+INIGO: Fezzik, are there rocks ahead?
+FEZZIK: If there are, we all be dead!
+VIZZINI: No more rhymes now-- I mean it!
+FEZZIK: Anybody want a peanut?
+VIZZINI: Dyaaggghhh!
+
+VIZZINI: We'll reach the cliffs by dawn.    ...Why are you doing that?
+INIGO: Are you sure nobody's follow us?
+VIZZINI: That would be inconceivable.
+BUTTERCUP: Despite what you think, you will be caught. And when you are, the
+        Prince will see you all hanged.
+VIZZINI: Of all the necks on this boat, Highness, the one you should be
+        worried about is your own.    ...Stop doing that! We can all relax.
+        It's almost over.
+INIGO: You are sure nobody's follow us?
+VIZZINI: As I told you, it would be absolutely, totally, and in all other ways
+        inconceivable! No one in Guilder knows what we've done, and no one in
+        Florin could have gotten here so fast.   ...Out of curiosity, why do
+        you ask?
+INIGO: Oh, it's nothing. It's only, I just happened to look behind us and
+        something is there.
+VIZZINI: What?
+        ...probably some local fisherman, out for a pleasure
+        cruise at night... through eel-infested waters.
+        <splash>
+VIZZINI: Wh-- Wha-- Go in! Get after her!
+INIGO: I don't swim.
+FEZZIK: I only dog-paddle.
+VIZZINI: Yaaaah!    Veer left! Left! Left!
+        <shriek>
+VIZZINI: Do you know what that sound it, Highness? Those are the Shrieking
+        Eels. If you don't believe me, just wait. They always grow louder
+        when they're about to feed on human flesh!
+        <shriek>
+        If you swim back now, I promise no harm will come to you. I doubt
+        you'll get such an offer from an eel.
+        <shriek>
+GRANDPA: She doesn't get eaten by the eels at this time.
+KID: What?
+GRANDPA: The eel doesn't get 'er. I'm explaining to you, because you looked
+        nervous.
+KID: Well... I wasn't nervous. Well, maybe I was a little bit... concerned,
+        but that's not the same thing.
+GRANDPA: Because we can stop now, if you want.
+KID: No-- you can read a little bit more, if you want.
+GRANDPA: Hm... "Do you know what that sound is, Highness? Those are the
+        Shrieking Eels."
+KID: We've passed that, Grandpa. You read it already.
+GRANDPA: Oh... oh my goodness, I did. I'm sorry; beg your pardon. All right, 
+        all right, let's see, uh: she was in the water, the eel was comin'
+        after 'er... she was frightened, the eel started to charge 'er, and
+        then--
+        <thump>
+VIZZINI: Put 'er down. Just put 'er down.
+INIGO: I think he's getting closer.
+VIZZINI: He's no concern of ours. Sail on.   ...I suppose you think you're
+        brave, don't you?
+BUTTERCUP: Only compared to some.
+
+INIGO: Look! He's right on top of us! I wonder if he is using the same wind
+        we are using.
+VIZZINI: Whoever he is, he's too late! See? The Cliffs of Insanity!! Hurry
+        up! Move the thing! And... that other thing! Move it!
+        
+        We're safe. Only Fezzik is strong enough to go up our way. He'll have
+        to sail around for hours till he finds a harbor.
+        <strap strap climb>
+        <climb>
+INIGO: He's climbing the rope... and he's gaining on us.
+VIZZINI: Inconceivable! Faster!
+FEZZIK: I thought I WAS going faster.
+VIZZINI: You were supposed to be this Colossus. You were this great legendary 
+        thing. And yet he gains.
+FEZZIK: Well... I'm carrying three people, and he got only himself.
+VIZZINI: I do not accept excuses. I'm just going to have to find myself a new
+        giant, that's all.
+FEZZIK: Don't say that, Vizzini. Please.
+        <climb climb>
+VIZZINI: Did I make it clear that your JOB is at stake??
+        <climb> <hack hack> <snap>
+FEZZIK: He's got very good arms.
+VIZZINI: He didn't fall? Inconceivable!
+INIGO: You keep using that word. I do not think it means what you think it
+        means.
+        
+        My God. He's climbing.
+VIZZINI: Whoever he is, he's obviously seen us with the princess and must
+        therefore die. You, carry her. We'll head straight for the Guilder
+        frontier. Catch up when he's dead. If he falls, fine; if not, the
+        sword.
+INIGO: I'm going to do him left-handed.
+VIZZINI: You KNOW what a hurry we're in!
+INIGO: Eh- it's the only way I can be satisfied. If I use my right... over
+        too quickly.
+VIZZINI: Oh, have it your way.
+FEZZIK: You be careful. People in masks cannot be trusted.
+VIZZINI: I'm waiting!
+        <practice>
+INIGO: Hello there! <wave> Slow going?
+WESTLEY: Look, I don't mean to be rude, but this is not as easy as it looks,
+        so I'd appreciate it if you wouldn't distract me.
+INIGO: Sorry.
+WESTLEY: Thank you.
+        <draw> <practice>
+INIGO: I do not suppose you could-a speed things up?
+WESTLEY: If you're in such a hurry, you could lower a rope or a tree branch
+        or find something useful to do.
+INIGO: I could do that; I have got some rope up here. But I do not think you
+        would accept my help, since I am only waiting around to kill you.
+WESTLEY: That does put a damper on our relationship.
+INIGO: But-- I promise I will not kill you until you reach the top.
+WESTLEY: That's very comforting. But I'm afraid you'll just have to wait.
+INIGO: I hate waiting. I could give you my word as a Spaniard!
+WESTLEY: No good. I've known too many Spaniards.
+INIGO: Is not there any way you will trust me?
+WESTLEY: Nothing comes to mind.
+INIGO: I swear on the sword of my father, Domingo Montoya; you will reach the
+        top alive.
+WESTLEY: Throw me the rope.
+        <climb>
+WESTLEY: Thank you. <draw>
+INIGO: Wa- w-w-w- wait until you're ready.
+WESTLEY: Again, thank you.
+INIGO: I do not mean to pry, but you don't by any chance happen to have six
+        fingers on your right hand?
+WESTLEY: Do you always begin conversations this way?
+INIGO: My father was slaughtered by a six-fingered man.
+        <shows hand>
+INIGO: He was a great swordmaker, my father. When the six-fingered man
+        appeared and requested a special sword, my father took the job. He
+        slave a year before he was done.
+WESTLEY: I have never seen its equal.
+INIGO: The six-fingered man returned and demanded it, but at one tenth his
+        promised price. My father refuse. Without a word, the six-fingered
+        man slash him through the heart. I love my father, so naturally I
+        challenge his murderer to a duel. I fail. The six-fingered man leave
+        me alive, but he give me this.
+WESTLEY: How old were you?
+INIGO: I was eleven years old. When I was strong enough, I dedicated my life
+        to the study of fencing, so the next time we meet, I will not fail. I
+        will go up to the six-fingered man and say, "Hello. My name is Inigo
+        Montoya. You killed my father. Prepare to die."
+WESTLEY: You've done nothing but study swordplay.
+INIGO: More pursuit than study lately. You see, I cannot find him. It's been
+        twenty years now, and I'm starting to lose confidence. I just work
+        for Vizzini to pay the bills. There's not a lot of money in revenge.
+WESTLEY: Well, I... I certainly hope you find him someday.
+INIGO: You are ready then?
+WESTLEY: Whether I am or not, you've been more than fair.
+INIGO: You seem a decent fellow. I hate to kill you.
+WESTLEY: You seem a decent fellow. I hate to die.
+INIGO: Begin.
+        <ching ching swish> <castanets>
+        <ching ching swish> <castanets>
+        <fight>
+INIGO: You are using Bonetti's defense against me, ah?
+WESTLEY: I thought it fitting, considering the rocky terrain.
+INIGO: Naturally, you must expect me to attack with Capo Ferro.
+WESTLEY: Naturally, but I find that Thibault cancels out Capo Ferro.
+        Don't you?
+        <leap>
+INIGO: Unless the enemy has studied his Agrippa; <flip> which I have.
+        <castanets>
+        <fight>
+INIGO: You are wonderful!
+WESTLEY: Thank you. I've worked hard to become so.
+INIGO: I admit it, you are better than I am.
+WESTLEY: Then why are you smiling?
+INIGO: Because I know something you don't know.
+WESTLEY: And what is that?
+INIGO: I am not left-handed!
+        <fight>
+        <hm>
+        <hah>
+WESTLEY: You are amazing.
+INIGO: I ought to be, after twenty years.
+WESTLEY: There's something I ought to tell you.
+INIGO: Tell me.
+WESTLEY: I'm not left-handed either.
+        <fanfare>
+        <fight>
+        <swish>
+        <leap> <swing> <thud> <snatch>
+        <fling> <leap> <swing> <flip> <land>
+INIGO: Who are you?
+WESTLEY: No one of consequence.
+INIGO: I must know.
+WESTLEY: Get used to disappointment.
+INIGO: <shrug> Okay. <fight>
+        <ching ching swish> <catch>
+        <fight madly> <swish swish> <swipe> <disarm>
+INIGO: Kill me quickly.
+WESTLEY: I would as soon destroy a stained glass window as an artist like
+        yourself. However, since I can't have you following me either--
+        <thump>
+        Please understand, I hold you in the highest respect.
+
+VIZZINI: Inconceivable! Give her to me. Catch up with us quickly!
+FEZZIK: What do I do?
+VIZZINI: Finish him. Finish him! Your way!
+FEZZIK: Oh good. My way. Thank you, Vizzini.   ...Which way is my way?
+VIZZINI: Pick up one of these rocks. Get behind the boulder. In a few minutes, 
+        the man in black will come running around the bend. The minute his
+        HEAD is in view, HIT IT WITH THE ROCK!!
+FEZZIK: My way's not very sportsmanlike.
+        <run> <look around>
+        <smash>
+FEZZIK: I did that on purpose. I didn't have to miss.
+WESTLEY: I believe you.   ...So what happens now?
+FEZZIK: We face each other as God intended-- sportsmanlike. No tricks, no
+        weapons; skill against skill alone.
+WESTLEY: You mean... you'll put down your rock and I'll put down my sword and
+        we'll try and kill each other like civilized people?
+FEZZIK: I could kill you now.
+WESTLEY: Frankly, I think the odds are slightly in your favor at hand
+        fighting.
+FEZZIK: It's not my fault being the biggest and the strongest. I don't even
+        exercise.
+        <thud> <grab> <unnnggghhhh>
+WESTLEY: Look-- are you just fiddling around with me or what?
+FEZZIK: I just want you to feel you are doing well. I hate for people to die
+        embarassed.
+        <roll>
+FEZZIK: You're quick.
+WESTLEY: And a good thing, too.
+FEZZIK: Why are you wearing a mask? Were you burned by acid, or something
+        like that?
+WESTLEY: Oh no, it's just they're terribly comfortable. I think everyone'll
+        be wearing them in the future. <leap>
+FEZZIK: I just figured why you give me so much trouble.
+        <hulp>
+WESTLEY: Why is that... do you think?
+FEZZIK: Well, haven't fought just one person for so long; been specializing
+        in groups, battling gangs for local charities, that kind
+        of thing.
+WESTLEY: Why should that make such a <hurp> difference?
+FEZZIK: Well, you see-- you use different moves... when you're fighting...
+        half a dozen... people... than when you only... have to be worried... 
+        about one... <thud>
+WESTLEY: I do not envy you the headache you'll have when you wake; but in the
+        meantime rest well, and dream of large women.
+        <runs off>
+
+        <following footsteps>
+PRINCE: There was a mighty duel. It ranged all over. They were both masters.
+RUGEN: Who won? How did it end?
+PRINCE: The loser ran off alone... but the winner followed those footprints...
+        toward Guilder.
+RUGEN: Shall we track them both?
+PRINCE: The loser is nothing. Only the Princess matters. Clearly this was all
+        planned by warriors of Guilder. We must all be ready for whatever
+        lies ahead.
+RUGEN: Could this be a trap?
+PRINCE: I always think everything could be a trap... which is why I'm still
+        alive.
+
+VIZZINI: So... it is down to you, and it is down to me.
+        <step>
+VIZZINI: If you wish her dead, by all means, keep moving forward.
+WESTLEY: Let me explain.
+VIZZINI: There's nothing to explain. You're trying to kidnap what I've
+        rightfully stolen.
+WESTLEY: <step> Perhaps... an arrangement can be reached?
+VIZZINI: There will be no arrangement.   ...And you're killing her.
+WESTLEY: Well, if there can be no arrangement, then we are at an impasse.
+VIZZINI: I'm afraid so. I can't compete with you physically, and you're no
+        match for my brains.
+WESTLEY: You're that smart.
+VIZZINI: Let me put it this way: Have you ever heard of Plato? Aristotle?
+        Socrates?
+WESTLEY: Yes...
+VIZZINI: Morons.
+WESTLEY: Really. In that case, I challenge you to a battle of wits.
+VIZZINI: For the princess?
+        <nod>
+VIZZINI: To the death?
+        <nod>
+VIZZINI: I accept.
+WESTLEY: Good. Then pour the wine.
+        <pour>
+WESTLEY: Inhale this, but do not touch.
+VIZZINI: <sniff> I smell nothing.
+WESTLEY: What you don't smell is called iocaine powder. It is odorless,
+        tasteless, dissolves instantly in liquid, and is among the more
+        deadly poisons known to man.
+VIZZINI: Hm.
+        <poison>
+VIZZINI: Heh.
+WESTLEY: All right, where is the poison? The battle of wits has begun. It
+        ends when you decide and we both drink, and find out who is right,
+        and who is dead.
+VIZZINI: But it's so simple. All I have to do is divine from what I know of
+        you: are you the sort of man who would put the poison into his own
+        goblet or his enemy's? Now, a clever man would put the poison into
+        his own goblet, because he would know that only a great fool would
+        reach for what he was given; I am not a great fool, so I can clearly
+        not choose the wine in front of you. But you must have known I was
+        not a great fool-- you would have counted on it-- so I can clearly
+        not choose the wine in front of me!
+WESTLEY: You've made your decision then?
+VIZZINI: Not remotely! Because iocaine comes from Australia, as everybody
+        knows; and Australia is entirely peopled with criminals; and criminals 
+        are used to having people not trust them (as you are not trusted by
+        me), so I can clearly not choose the wine in front of you.
+WESTLEY: Truly, you have a dizzying intellect.
+VIZZINI: Wait till I get going! ...where was I?
+WESTLEY: Australia.
+VIZZINI: Yes, Australia! And you must have suspected I would know the powder's 
+        origin, so I can clearly not choose the wine in front of me.
+WESTLEY: You're just stalling now.
+VIZZINI: You'd like to THINK that, wouldn't you? You've beaten my giant,
+        which means you're exceptionally strong, so you could have put the
+        poison in your own goblet, trusting in your strength to save you,
+        so I can clearly not choose the wine in front of you. But, you've
+        also bested my Spaniard, which means you must have studied, and, in
+        studying, you must have learned that man is mortal, so you would have 
+        put the poison as far from yourself as possible, so I can clearly not 
+        choose the wine in front of me!
+WESTLEY: You're trying to trick me into giving away something. It won't work.
+VIZZINI: It HAS worked! You've given everything away! I know where the poison 
+        is!
+WESTLEY: Then make your choice.
+VIZZINI: I will! And I choose-- <gasp> what in the world can that be?
+WESTLEY: What? Where? <switch> I don't see anything.
+VIZZINI: Oh, well... I... could have sworn I saw something...ah... no matter. 
+        <chuckle>
+WESTLEY: What's so funny?
+VIZZINI: I'll-- tell you in a minute. First, let's drink: me from my glass,
+        and you from yours.
+        <drink>
+        <drink>
+        <chuckle>
+WESTLEY: You guessed wrong.
+VIZZINI: You only think I guessed wrong; that's what's so funny! I switched
+        glasses while your back was turned! Ha ha, you fool! You fell victim
+        to one of the classic blunders! The most famous is "never get involved 
+        in a land war in Asia," but only slightly less well-known is this:
+        never go in against a Sicilian when DEATH is on the line! A ha ha ha
+        ha ha ha ha ha ha ha-- <thud>
+BUTTERCUP: Who are you?
+WESTLEY: I am no one to be trifled with. That is you ever need know.
+BUTTERCUP: To think-- all that time it was your cup that was poisoned.
+WESTLEY: They were both poisoned. I've spent the last few years building up
+        an immunity to iocaine powder.
+
+PRINCE: Someone has beaten a giant. There will be great suffering in Guilder
+        if she dies.
+        <fanfare>
+
+WESTLEY: Catch your breath.
+BUTTERCUP: If you'll release me, whatever you ask for ransom, you'll get it,
+        I promise you!
+WESTLEY: Ha ha ha ha ha! And what is that worth? The promise of a woman.
+        You're very funny, Highness.
+BUTTERCUP: I was giving you a chance. It does not matter where you take me;
+        there is no greater hunter than Prince Humperdinck. He can track a
+        falcon on a cloudy day; he can find you.
+WESTLEY: You think your dearest love will save you?
+BUTTERCUP: I never said he was my dearest love. And yes, he will save me;
+        that I know.
+WESTLEY: You admit to me you do not love your fiancee?
+BUTTERCUP: He knows I do not love him.
+WESTLEY: "Are not capable of love" is what you mean.
+BUTTERCUP: I have loved more deeply than a killer like yourself could ever
+        dream!
+        <threaten>
+WESTLEY: That was a warning, Highness. The next time my hand flies on its
+        own, for where I come from there are penalties when a woman lies.
+        <run>
+
+PRINCE: Iocaine; I'd bet my life on it. And there are the Princess'
+        footprints. She is alive-- or was, an hour ago. If she is otherwise
+        when I find her, I shall be very put out.
+
+WESTLEY: Rest, Highness.
+BUTTERCUP: I know who you are; your cruelty reveals everything. You are the
+        Dread Pirate Roberts, admit it!
+WESTLEY: With pride. What can I do for you?
+BUTTERCUP: You can die slowly, cut into a thousand pieces.
+WESTLEY: Tsk tsk tsk tsk tsk. Hardly complimentary, your Highness. Why loose
+        your venom on me?
+BUTTERCUP: You killed my love.
+WESTLEY: It's possible. I kill a lot of people. Who was this love of yours?
+        Another prince, like this one? Ugly, rich, and scabby?
+BUTTERCUP: No. A farm boy, poor. Poor and perfect... with eyes like the sea
+        after a storm. On the high seas your ship attacked, and the Dread
+        Pirate Roberts never takes prisoners.
+WESTLEY: I can't afford to make exceptions. I mean, once word leaks out that
+        a pirate has gone soft, people begin to disobey you and then it's
+        nothing but work, work, work all the time.
+BUTTERCUP: You mock my pain!
+WESTLEY: Life is pain, Highness. Anyone who says differently is selling
+        something.
+        <music> I remember this farm boy of yours, I think. This would be
+        what, five years ago? Does it bother you to hear?
+BUTTERCUP: Nothing you can say will upset me.
+WESTLEY: He died well; that should please you. No bribe attempts or
+        blubbering. He simply said, "Please... please, I need to live." 'Twas 
+        the "please" that caught my memory. I asked him what was so important 
+        for him; "true love," he replied. And then he spoke of a girl of 
+        surpassing beauty and faithfulness (I can only assume he meant you)... 
+        you should bless me for destroying him before he found out what you 
+        really are.
+BUTTERCUP: And what am I?
+WESTLEY: Faithfulness he talked of, madam, your enduring faithfulness. Now
+        tell me truly: when you found out he was gone, did you get engaged to 
+        your prince that same hour, or did you wait a whole week out of 
+        respect for the dead?
+BUTTERCUP: You mocked me once; never do it again! I died that day!
+        <hoofbeats>
+        You can die too for all I care! <shove>
+WESTLEY: Aaaaaaaas yyooooouuu wiiiiiissshhh....
+BUTTERCUP: Oh my sweet Westley! What have I done? <leap>
+        <ow>
+        <ooh>
+        <ooh>
+        <wooh>
+        <ow>
+        <oof>
+        <ooh>
+        <ow>
+        <oosh>
+
+PRINCE: They've disappeared. He must have seen us closing in, which might
+        account for his panicking and error. Unless I am wrong-- and I am
+        never wrong-- they are headed dead into the Fire Swamp.
+
+WESTLEY: Can you move at all?
+BUTTERCUP: Move? You're alive! If you want, I can fly!
+WESTLEY: I told you I would always come for you. Why didn't you wait for me?
+BUTTERCUP: Well, you were dead.
+WESTLEY: Death cannot stop true love. All it can do is delay it for a while.
+BUTTERCUP: I will never doubt again.
+WESTLEY: There will never be a need.
+        <kiss>
+--------------
+KID: Oh no... no, please.
+GRANDPA: What is it? What's the matter?
+KID: They're kissing again. Do we HAVE to hear the kissing part?
+GRANDPA: Someday, you may not mind so much.
+KID: Skip on to the Fire Swamp. That sounded good.
+GRANDPA: Oh. <sip> You're sick; I'll humor you. So now where were we: mm,
+        yeah, yeah... oh, okay. "Westley and Buttercup raced along the ravine
+        floor.
+WESTLEY: Ha! Your pig fianc‚e is too late. A few more steps and we'll be safe 
+        in the Fire Swamp.
+BUTTERCUP: We'll never survive!
+WESTLEY: Nonsense. You're only saying that because no one ever has.
+
+        <ominous noises>
+WESTLEY: It's not that bad.   ...Well, I'm not saying I'd like to build a
+        summer home here, but the trees are actually quite lovely.
+        <boom>
+        <pop pop pop> <foof>
+        <scream> <smother>
+WESTLEY: Well now. That was an adventure. Singed a bit, were you?
+        No. You?
+        <pop pop pop> <foof>
+WESTLEY: Well... one thing I will say: the Fire Swamp certainly does keep
+        you on your toes.
+
+WESTLEY: This will all soon be but a happy memory. So Roberts' ship Revenge
+        was anchored at the far end. And I, as you know, am Roberts.
+BUTTERCUP: But how is that possible? since he has been marauding twenty 
+        years, and you only left me five years ago?
+WESTLEY: I myself am often surprised by life's little quirks.
+        <pop pop pop> <foof> You see, what I told you about saying "please"
+        was true. I intrigued Roberts, as did my description of your beauty.
+        Finally, Roberts decided something. He said, "All right, Westley;
+        I've never had a valet: you can try it for tonight. I'll most likely
+        kill you in the morning." Three years he said that: "Good night,
+        Westley; good work, sleep well; I'll most likely kill you in the
+        morning." It was a fine time for me; I was learning to fence, fight--
+        anything anyone would teach me. And Roberts and I eventually became
+        friends. And then it happened.
+BUTTERCUP: What? Go on.
+WESTLEY: Well, Roberts had grown so rich he wanted to retire. So he took me
+        to his cabin, and told me his secret. "I am not the Dread Pirate
+        Roberts," he said. "My name is Ryan. I inherited the ship from the
+        previous Dread Pirate Roberts, just as you will inherit it from me.
+        The man I inherited it from was not the real Dread Pirate Roberts
+        either. His name was Cummberbund. The real Roberts has been retired
+        fifteen years and living like a king in Patagonia." Thank you. Then 
+        he explained: the NAME was the important thing for inspiring the 
+        necessary fear. You see, no one would surrender to the Dread Pirate 
+        Westley. So we sailed ashore, took on an entirely new crew, and he 
+        stayed aboard for a while as first mate, all the time calling me 
+        "Roberts." Once the crew believed, ah-- he left the ship, and I have 
+        been Roberts ever since. Except now that we are together, I shall 
+        retire and hand the name over to someone else. Is everything clear 
+        to you?
+        <nod>
+        <shloop>
+        <whack>
+        <dive>
+        <waddle waddle sniff waddle>
+        <gaaasssp>
+        <cough cough>
+        <growl>
+BUTTERCUP: We'll never succeed. We may as well die here.
+WESTLEY: No! No! We have already succeeded! I mean, what are the three
+        terrors of the Fire Swamp? One, the Flame Spurt: no problem. There's
+        a popping sound preceding each, we can avoid that. Two, the
+        lightning sand, which you were clever enough to discover what that
+	looks like, so in the future we can avoid that too.
+BUTTERCUP: Westley! What about the ROUSes?
+WESTLEY: Rodents Of Unusual Size? I don't think they exist.
+        <leap>
+        <growl>
+        <fight>
+        <aaaaarrrggh>
+        <roll>
+        <Westley!>
+        <rip>
+        <whack>
+        <pop pop pop> <foof>
+        <stab> <stab> <stab>
+
+BUTTERCUP: We did it.
+WESTLEY: Now, was that so terrible?
+        <gallop>
+PRINCE: Surrender!
+WESTLEY: You mean you wish to surrender to me? Very well, I accept.
+PRINCE: I give you full marks for bravery; don't make yourself a fool.
+WESTLEY: Ah, but how will you capture us? We know the secrets of the Fire
+        Swamp. We can live there quite happily for some time, so whenever
+        you feel like dying, feel free to visit.
+PRINCE: I tell you once again: surrender!
+WESTLEY: It will not happen.
+PRINCE: For the last time, surrender!
+WESTLEY: Death first!
+BUTTERCUP: Will you promise not to hurt him?
+PRINCE: What was that?
+WESTLEY: What was that?
+BUTTERCUP: If we surrender, and I return with you, will you promise not to
+        hurt this man?
+PRINCE: May I live a thousand years and never hunt again.
+BUTTERCUP: He is a sailor on the pirate ship Revenge. Promise to return him
+        to his ship.
+PRINCE: I swear it will be done.   ... Once we're out of sight, take him back 
+        to Florin and throw him in the Pit of Despair.
+RUGEN: I swear it will be done.
+BUTTERCUP: I thought you were dead once, and it almost destroyed me. I could
+        not bear it if you died again. What more than I could save you?
+        <gallop>
+RUGEN: Come, sir. We must get you to your ship.
+WESTLEY: We are men of action. Lies do not become us.
+RUGEN: Well spoken, sir.    ...What is it?
+WESTLEY: You have six fingers on your right hand. Someone was looking for
+        you. <thump>
+
+        <creak>
+        <dab dab>
+WESTLEY: Where am I?
+ALBINO: The Pit of Despair! Don't even think-- <cough hachhhk ahem> --don't 
+        even think about tryin' to escape; the chains are far to thick. Have
+        no dream of bein' rescued, either; the only way in is secret; only 
+        the Prince, the Count and I know how to get in and out.
+WESTLEY: Then I'm here till I die?
+ALBINO: Till they kill you, yeah.
+WESTLEY: Then why bother curing me?
+ALBINO: <sigh> The Prince and the Count always insist on everyone bein'
+        healthy... before they're broken.
+WESTLEY: So it's to be torture.
+        <nod>
+WESTLEY: I can cope with torture.
+        <uh uh>
+WESTLEY: You don't believe me?
+ALBINO: You survived the Fire Swamp, you must be very brave; but NOBODY
+        withstands the Machine. <chuckle>
+
+PRINCE: She's been like that ever since the Fire Swamp. It's my father's
+        failing health that's upsetting her.
+RUGEN: Of course.
+
+GRANDPA: The king died that very night, and before the following dawn,
+        Buttercup and Humperdinck wer married. And at noon she met her
+        subjects again, this time as their Queen.
+PRINCE: My father's final words were--
+------------------
+KID: Hold it, hold it, Grandpa-- you read that wrong. She doesn't marry
+        Humperdinck, she marries Westley. Just sure of it. After all that
+        Westley did for her, if she didn't marry him... it wouldn't be fair.
+GRANDPA: Well, who says life is fair? Where is that written?
+KID: I'm telling you, you're messing up the story! Now get it right!
+GRANDPA: Do you want me to go on with this?
+KID: Yes...
+GRANDPA: All right then; no more interruptions. "At noon she met her subjects 
+        again, this time as their Queen.
+PRINCE: My father's final words were, "Love her as I loved her, and there
+        will be joy." I present to you your Queen: Queen Buttercup!
+        <fanfare>
+WOMAN: Boo! Boo! Boooo!
+BUTTERCUP: Why do you do this?
+WOMAN: Because you had love in your hands! And you gave it up!
+BUTTERCUP: But they would have killed Westley if I hadn't done it.
+WOMAN: Your true love lives! And you marry another. True love saved her in the
+        Fire Swamp, and she treated it like garbage! And that's what she is--
+        the Queen of Refuse! So bow down to her if you want! Bow to her! Bow
+        to the Queen of Slime! The Queen of Filth! The Queen of Putrescence!
+        Boo! Boo! Rubbish! Filth! Slime! Muck! Boo! Boo! BOOOO!!
+        <awakes>
+GRANDPA: It was ten days till the wedding. The king still lived, but
+        Buttercup's nightmares were growing steadily worse.
+KID: See? Didn't I tell you she'd never marry that rotten Humperdinck?
+GRANDPA: Yes. You're very smart. Shut up.
+BUTTERCUP: It comes to this. I love Westley. I always have. I know now I
+        always will. If you tell me I must marry you in ten days, please
+        believe, I will be dead by morning.
+PRINCE: I could never cause you grief; Consider our wedding off. You returned 
+        this Westley to his ship?
+RUGEN: Yes.
+PRINCE: Then we will simply alert him! Beloved, are you certain he still wants
+        you? After all, it was you who did the leaving in the Fire Swamp; not
+        to mention that pirates are not known to be men of their words.
+BUTTERCUP: My Westley will always come for me.
+PRINCE: Ah. I suggest a deal. You write four copies of a letter. I'll send my 
+        four fastest ships, one in each direction. The Dread Pirate Roberts 
+        is always close to Florin this time of year. We'll run up the white 
+        flag and deliver your message. If Westley wants you, bless you both. 
+        If not, please consider me as an alternative to suicide? Are we 
+        agreed?
+        <nod>
+
+RUGEN: Your Princess is really quite a winning creature. A trifle simple 
+        perhaps, but her appeal is undeniable.
+PRINCE: I know, the people are quite taken with her. It's odd, but when I 
+        hired Vizzini to have her murdered on our engagement day, I thought 
+        that was clever; but it's going to be so much more moving when I 
+        strangle her on our wedding night. Once Guilder is blamed, the 
+        nation will be truly outraged; they'll demand that we go to war.
+RUGEN: <chuckle> Now where is that secret knot? It's impossible to find. 
+        <press> Ah. Are you coming down into the pit? Westley's got his 
+        strength back; I'm starting him on the Machine tonight.
+PRINCE: Tyrone, you know how much I love watching you work; but I've got my
+        country's 500th anniversary to plan, my wedding to arrange, my wife
+        to murder, and Guilder to frame for it. I'm swamped.
+RUGEN: Get some rest. If you haven't got your health, you haven't got
+        anything.
+
+        <roll>
+        <hook up>
+PRINCE: Beautiful, isn't it? Took me half a lifetime to invent it. I'm sure 
+        you've discovered my deep and abiding interest in pain; presently 
+        I'm writing the definitive work on the subject. So I want you to be 
+        totally honest with me on how the Machine makes you feel. This being 
+        our first try, I'll use the lowest setting.
+        <lift>
+        <flow>
+        <suck>
+RUGEN: As you know, the principle of the suction pump is centuries old. 
+        Really, that's all this is, except that instead of sucking water, I'm 
+        sucking life. I've just sucked one year of your life away. I might 
+        one day go as high as five, but I really don't know what that would 
+        do to you; so, let's just start with what we have. What did this do 
+        to you? Tell me. And remember, this is for posterity, so-- be honest. 
+        How do you feel?
+WESTLEY: <whimper>
+RUGEN: Interesting.
+
+YELLIN: Ahem.
+PRINCE: Yellin. <beckon>
+YELLIN: Sire. <kneel>
+PRINCE: As chief enforcer of all Florin, I trust you with this secret: 
+        killers from Guilder are infiltrating the Thieves' Forest, and plan 
+        to murder my bride on our wedding night.
+YELLIN: My spy network has heard no such news.
+BUTTERCUP: Any word from Westley?
+PRINCE: Too soon, my angel! Patience.
+BUTTERCUP: He will come for me.
+PRINCE: Of course.   ...She will not be murdered. On the day of the wedding, 
+        I want the Thieves' Forest emptied, and every inhabitant arrested.
+YELLIN: Many of the thieves will resist. My regular enforcers will be inadequate.
+PRINCE: Form a Brute Squad, then! I want the Thieves' Forest emptied before 
+        I wed.
+YELLIN: It won't be easy, sire.
+PRINCE: Try ruling the world sometime.
+
+GRANDPA: The day of the wedding arrived. The Brute Squad had their hands full
+        carrying out the Prince's orders.
+YELLIN: Is everybody out?
+BRUTE: Almost. There's a Spaniard giving us some trouble.
+YELLIN: Well, you give him some trouble. Move.
+
+INIGO: I am waiting for you, Vizzini! You told me to go back to the beginning!
+        So I have. This is where I am, and this is where I'll stay. I will
+        not be moved.
+BRUTE: Ho there!
+INIGO: I do not budge. Keep your "ho there."
+BRUTE: But the Prince gave orders!
+INIGO: <swing> <swing> <whack> Only Vizzini! When the job went wrong he went
+        back to the beginning. Well, this is where we got the job. So is the
+        beginning. And I am staying here till Vizzini come.
+BRUTE: You! Brute! Come here!
+INIGO: I am waiting for... Vizzini.
+FEZZIK: You surely are a meanie.   ...Hello.
+INIGO: It's you.
+FEZZIK: True. <thump> You don't look so good. <phew> You don't smell so
+        good either.
+INIGO: Perhaps no. I feel fine.
+FEZZIK: Yeah. <pat pat>
+        <thud>
+
+GRANDPA: Fezzik and Inigo were reunited. And as Fezzik nursed his inebriated 
+        friend back to health, he told Inigo of Vizzini's death, and the
+        existence of Count Rugen, the six-fingered man. Considering Inigo's
+        lifelong search, he handled the news surprisingly well.
+        <splash>
+
+        <splash>
+        <splash>
+INIGO: That's enough. That's enough! Where is this Rugen now, so I may kill 
+        him? 
+FEZZIK: He's with the Prince, in the castle. But the castle gate is guarded 
+        by thirty men.
+INIGO: <sigh> <kick> How many could you handle?
+FEZZIK: I don't think more than ten.
+INIGO: Leaving twenty for me. At my best I could never defeat that many. I 
+        need Vizzini to plan. I have no gift for strategy.
+FEZZIK: But Vizzini is dead.
+INIGO: No. Not Vizzini. I need the man in black.
+FEZZIK: What?
+INIGO: Look. He bested you with strength, your greatness. He bested me with 
+        steel. He must have out-thought Vizzini. And the man who can do that 
+        can plan my castle onslaught any day. Let's go.
+FEZZIK: Where?
+INIGO: To find the man in black, obviously.
+FEZZIK: But you don't know where he is.
+INIGO: Don't bother me with trifles. After twenty years, at last my father's
+        soul will be at peace. There will be blood tonight!
+
+        <sharpen>
+PRINCE: Rise and report.
+YELLIN: The Thieves' Forest is emptied. Thirty men guard the castle gate.
+PRINCE: Double it. My princess must be safe.
+YELLIN: The gate has but one key... and I carry that.
+PRINCE: Ah, my dulcet darling. Tonight we marry. Tomorrow morning your men 
+        will escort us to Florin Channel, where every ship in our armada 
+        waits to accompany us on our honeymoon.
+BUTTERCUP: Every ship but your four fastest, you mean.
+        <blank stare>
+BUTTERCUP: Every ship but the four you sent.
+PRINCE: Yes. Yes, of course. Naturally, not those four.
+YELLIN: Your Majesty.
+BUTTERCUP: You never sent the ships. Don't bother lying. Doesn't matter; 
+        Westley will come for me anyway.
+PRINCE: You're a silly girl.
+BUTTERCUP: Yes, I am a silly girl-- for not having seen sooner that you are 
+        nothing but a coward with a heart full of fear.
+PRINCE: I would not say such things if I were you.
+BUTTERCUP: Why not? You can't hurt me. Westley and I are joined by the bonds 
+        of love; and you cannot track that, not with a thousand 
+        bloodhounds; and you cannot break it, not with a thousand swords. 
+        And when I say you are a coward, it is only because you are the
+        slimiest weakling ever to crawl the earth!
+PRINCE: I would not say such things if I were you!
+        <slam>
+PRINCE: You truly love each other, and so you might have been truly happy. Not
+        one couple in a century has that chance, no matter what the storybooks
+        say. And so I think no man in a century will suffer as greatly as
+        you will.
+        <lift>
+RUGEN: Not to fifty!
+        <aaaaaarrrrrrggggghhhhhhh!!!!>
+INIGO: Fezzik! Fezzik! Listen! Do you hear? That is the sound of Ultimate
+        Suffering. My heart made that sound when Rugen slaughtered my father.
+        The man in black makes it now.
+FEZZIK: The man in black?
+INIGO: His true love is marrying another tonight. So who else has the cause
+        for Ultimate Suffering? 'Scuse me. Pardon me, it's important. Fezzik,
+        please.
+FEZZIK: Everybody, MOVE!!
+INIGO: Thank you.
+
+INIGO: Where is the man in black? You get there from this grove, yes? Fezzik,
+        jog his memory.
+        <jog>
+        <thud>
+FEZZIK: I'm sorry, Inigo... I didn't mean to jog him so hard. ...Inigo?
+INIGO: Father... I have failed you for twenty years. Now our misery can end.
+        Somewhere, somewhere close by is a man who can help us. I cannot find
+        him alone; I need you. I need you to guide my sword. Please... guide
+        my sword.
+        <thunk>
+        <press>
+        <creak>
+
+FEZZIK: He's dead.
+INIGO: This is not fair.
+-------------------
+KID: Grandpa, grandpa, wait, wait. What did Fezzik mean, "he's dead"? I mean,
+        he didn't mean... dead? Westley's only faking, right?
+GRANDPA: You want me to read this, or not?
+KID: Who gets Humperdinck?
+GRANDPA: I don't understand.
+KID: Who kills Prince Humperdinck? At the end! Somebody's gotta do it. Is it
+        Inigo? Who?
+GRANDPA: Nobody. Nobody kills him. He lives.
+KID: You mean he wins? Jesus, Grandpa, what did you read me this thing for?
+GRANDPA: You know, you've been very sick, and you're taking this story very
+        seriously. I think we oughtta stop now.
+        <shuts book>
+KID: No... I'm okay, I'm okay. Sit down. I'm all right.
+GRANDPA: Okay. All right now, let's see, where were we? Ohh yes. In the Pit
+        of Despair.
+----------------------
+INIGO: The Montoyas have never taken defeat easily. Come along, Fezzik; bring
+        the body.
+FEZZIK: The body?
+INIGO: Have you any money?
+FEZZIK: I have a little.
+INIGO: I just hope it's enough to buy a miracle, that's all.
+
+        <knock knock>
+MIRACLE MAX: Go away!
+        <knock knock knock>
+MAX: What? What?
+INIGO: Are you the Miracle Max who worked for the king all those years?
+MAX: The king's stinking son fired me. And thank you so much for bringing up
+        such a painful subject. While you're at it why don't you give me a
+        nice papercut and pour lemon juice on it? We're closed! <slam>
+        <knock knock>
+MAX: Beat it, or I'll call the Brute Squad.
+FEZZIK: I'm on the Brute Squad.
+MAX: You ARE the Brute Squad.
+INIGO: We need a miracle. It's very important.
+MAX: Look, I'm retired. And besides, why would you want somebody the king's
+        stinking son fired? I might kill whoever you wanted me to miracle.
+INIGO: He's already dead.
+MAX: He is, huh? I'll take a look. Bring him in.
+
+        <flop>
+MAX: I've seen worse.
+INIGO: Sir? Sir?
+MAX: Huh?
+INIGO: We're in a terrible rush.
+MAX: Don't rush me, sonny. You rush a miracle man, you get rotten miracles.
+        You got money?
+INIGO: Sixty-five.
+MAX: Sheesh. I never work for so little. Except once; and that was a very
+        noble cause.
+INIGO: This is noble, sir. His wife is... cripple. His children are on the
+        brink of starvation.
+MAX: Are you a rotten liar.
+INIGO: I need him to help me avenge my father, murdered these twenty years.
+MAX: Your first story was better. Where's that bellows cram? He probably
+        owes you money, ah? Well, I'll ask him.
+INIGO: He's dead. He can't talk.
+MAX: Woo hoo hoo! Look who knows so much, heh! Well, it just so happens that
+        your friend here is only MOSTLY dead. There's a big difference
+        between mostly dead and all dead. Please, open his mouth. Now,
+        mostly dead, he's slightly alive. Now, all dead, well, with all dead,
+        there's usually only one thing you can do.
+INIGO: What's that?
+MAX: Go through his clothes and look for loose change. ...Hey! Hello in there!
+        What's so important? What'cha got here that's worth living for?
+        <press>
+WESTLEY: Trruuueee..... lloooovve...
+INIGO: "True love!" You heard him? You could not ask for a more noble cause
+        than that.
+MAX: Yeah, sonny... true love is the greatest thing in the world. Except for
+        a nice MLT: mutton, lettuce, and tomato sandwich, when the mutton is
+        nice and lean, and the tomato is ripe... <smack smack> they're so
+        perky; I love that. But that's not what he said! He distinctly said,
+        "To blave..." and as we all know, "to blave" means "to bluff!" So
+        you were probably playing cards, and he cheated! And...
+VALERIE: Liar! Liar! Liar!!
+MAX: Get back, witch!
+VALERIE: I'm not a witch, I'm your wife! But after what you just said, I'm
+        not even sure I wanna be that anymore!
+MAX: You never had it so good.
+VALERIE: "True love," he said, "true love," Max!
+MAX: Don't say another word, Valerie!
+VALERIE: He's afraid. Ever since Prince Humperdinck fired him, his confidence
+        is shattered!
+MAX: Why'd you have to say that name? You promised me that you would never
+        say that name!
+VALERIE: What? Humperdinck? <Aaah!> Humperdinck! <Aah.> Humperdinck,
+        Humperdinck, <I'm not listening!> Humperdinck! <etc.> True love
+        lies expiring, and you don't have the decency to say why you won't
+        help!
+MAX: Nobody's hearin' nothin'!
+VALERIE: Humperdinck! Humperdinck! <etc.>
+INIGO: This is Buttercup's true love! If you heal him, he will stop
+        Humperdinck's wedding!
+MAX: Wait. Wait. If I make him better, Humperdinck suffers?
+INIGO: Humiliations galore.
+MAX: Ha haa! <sings> That is a noble cause. Gimme the sixty-five. I'm on the
+        job!
+VALERIE: Woo hoo!
+
+INIGO: That's a miracle pill?
+VALERIE: The chocolate coating makes it go down easier. But, you have to wait
+        fifteen minutes for full potency. And, he shouldn't go in swimming
+        after for at least... what?
+MAX: An hour.
+VALERIE: Yeah, an hour.
+MAX: A good hour. Yeah.
+INIGO: Thank you for everything.
+MAX: Okay.
+VALERIE: Bye bye, boys.
+MAX: Have fun storming the castle!
+VALERIE: Think it'll woyk?
+MAX: It would take a miracle. Bye bye!
+
+        <ungh>
+FEZZIK: Inigo! There's more than thirty.
+INIGO: What's the difference? We've got him. Help me here. We'll have to
+        force-feed him.
+FEZZIK: Has it been fifteen minutes?
+INIGO: We can't wait. The wedding's in half an hour. We must strike in the
+        hustle and the bustle beforehand. Tilt his head back. Open his mouth.
+FEZZIK: How long do we have to wait before if we know the miracle works?
+INIGO: Your guess is as good as mine.
+WESTLEY: I beat you both apart! I'll take you both together!
+FEZZIK: I guess not very long.
+WESTLEY: Why won't my arms move?
+FEZZIK: You've been mostly dead all day.
+INIGO: We had Miracle Max make a pill to bring you back.
+WESTLEY: Who are you? Are we enemies? Why am I on this wall? Where's
+        Buttercup?
+INIGO: Let me explain: --no, there is too much. Let me sum up: Buttercup is
+        marry Humperdinck in little less than half an hour. So all we have
+        to do is get in, break up the wedding, steal the Princess, make our
+        escape-- after I kill Count Rugen.
+WESTLEY: That doesn't leave much time for dilly-dallying. <wiggle>
+FEZZIK: You just wiggled your finger! That's wonderful!
+WESTLEY: I've always been a quick healer. What are our liabilities?
+INIGO: There is but one working castle gate. And it is guarded by... sixty
+        men.
+WESTLEY: And our assets?
+INIGO: Your brains. Fezzik's strength. My steel.
+WESTLEY: That's it? Impossible. Maybe if I had a month to plan I could come
+        up with something, but this... <shake>
+FEZZIK: You just shook your head! That doesn't make you happy?
+WESTLEY: My brains, his steel, and your strength against sixty men and you
+        think a little head-jiggle is supposed to make me happy? Hmm? I mean, 
+        if we only had a wheelbarrow, that would be something.
+INIGO: Where did we put that wheelbarrow the albino had?
+FEZZIK: Well, with the albino, I think.
+WESTLEY: Well, why didn't you list that with our assets in the first place?
+        <sigh> What I wouldn't give for a holocaust cloak.
+INIGO: There we cannot help you.
+FEZZIK: Will this do?
+INIGO: Where did you get that?
+FEZZIK: At Miracle Max's. It fit so nice, he said I could keep it.
+WESTLEY: All right, all right, help me up. Now, I'll need a sword eventually.
+INIGO: Why? You can't even lift one.
+WESTLEY: True, but that's hardly common knowledge, is it? Thank you. Now, 
+        there may be problems once we're inside.
+INIGO: I'll say. How do I find the Count? Once I do, how do I find you again?
+        Once I find you again, how do we escape?
+FEZZIK: Don't pester. He's had a hard day.
+INIGO: Right. Right. Sorry.
+FEZZIK: Inigo!
+INIGO: What?
+FEZZIK: I hope we win.
+
+PRINCE: You don't seem excited, my little muffin.
+BUTTERCUP: Should I be?
+PRINCE: Brides often are, I'm told.
+BUTTERCUP: I do not marry tonight. My Westley will save me.
+
+        <slap>
+        <slap>
+
+        <organ>
+PRIEST: Mawwage. Mawwage is what bwings us togethah today. Mawwage, that
+        bwessed awwangement, that dweam within a dweam.
+        <shouting outside>
+
+YELLIN: Stand your ground!
+FEZZIK: I am the Dread Pirate Roberts! There will be no survivors!
+INIGO: Now?
+WESTLEY: Not yet.
+FEZZIK: I am here. I am here... but soon you will not be here.
+INIGO: Now?
+WESTLEY: Light him.
+        <foom>
+FEZZIK: The Dread Pirate Roberts takes no survivors. All your worst 
+        nightmares are about to come true!
+
+PRIEST: Then wove-- twue wove-- will fowww you fowevaw...
+
+FEZZIK: The Dread Pirate Roberts is here for your souls!!
+        <chaos>
+
+PRIEST: So tweasuah your wove...
+PRINCE: Skip to the end.
+PRIEST: Have you the wing?
+BUTTERCUP: Here comes my Westley now.
+
+WESTLEY: Fezzik! The portcullis!
+        <grab>
+
+PRINCE: Your Westley is dead. I killed him myself.
+BUTTERCUP: Then why is there fear behind your eyes?
+
+WESTLEY: Give us the gate key.
+YELLIN: I have no gate key.
+INIGO: Fezzik, tear his arms off.
+YELLIN: Oh, you mean this gate key.
+
+PRIEST: And do you, Pwincess Buhhcwup...
+PRINCE: "Man and wife!" Say "man and wife!"
+PRIEST: Man and wife.
+PRINCE: Escort the bride to the honeymoon suite. I'll be there shortly.
+BUTTERCUP: He didn't come.
+
+        <run>
+
+RUGEN: Kill the dark one and the giant, but leave the third for questioning.
+        <fight>
+INIGO: Hello. My name is Inigo Montoya. You killed my father. Prepare to die.
+        <run>
+        <run>
+        <slam>
+        <thud>
+INIGO: Fezzik! I need you!
+FEZZIK: I can't leave him alone.
+INIGO: He's getting away from me, Fezzik! Please!! Fezzik!
+FEZZIK: I'll be right back.
+        <thud>
+INIGO: Thank you.
+
+KING: Strange wedding.
+QUEEN: Yes. A very strange wedding. Come along now.
+        <kiss>
+KING: What was that for?
+BUTTERCUP: Because you've always been so kind to me, and I won't be seeing 
+        you again, since I'm killing myself once we reach the honeymoon suite.
+KING: Won't that be nice.   ...She kissed me!
+
+        <run>
+        <run>
+        <fling>
+        <hurk>
+INIGO: I'm sorry, father. I tried. I tried.
+RUGEN: You must be that little Spanish brat I taught a lesson to all those 
+        years ago. Simply incredible. Have you been chasing me your whole 
+        life, only to fail now? I think that's the worst thing I've ever 
+        heard. How marvellous.
+
+WESTLEY: There is a shortage of perfect breasts in this world. 'Twould pe a 
+        pity to damage yours.
+BUTTERCUP: Westley! Oh, Westley, darling!
+        <smooch> Westley, why don't you hold me?
+WESTLEY: Gently.
+BUTTERCUP: At a time like this, that's all you can think to say? "Gently"?
+WESTLEY: Gently! <groan>
+
+        <pluck>
+RUGEN: Good heavens. Are you still trying to win? You've got an overdeveloped
+        sense of vengeance. It's going to get you into trouble some day.
+        <stab> <parry>
+        <stab> <parry>
+INIGO: Hello. My name is Inigo Montoya. You killed my father. Prepare to die.
+        <thud>
+        <ching ching ching>
+INIGO: Hello. My name is Inigo Montoya. You killed my father. Prepare to die.
+        <ching ching ching>
+INIGO: Hello! My name is Inigo Montoya. You killed my father. Prepare to die!
+RUGEN: Stop saying that!
+        <stab>
+INIGO: Hello! My name is Inigo Montoya! You killed my father! Prepare to die!!
+        <fwing>
+RUGEN: No!  <slash>
+INIGO: Offer me money. <slash>
+RUGEN: Yes.
+INIGO: Power too, promise me that.
+RUGEN: All that I have and more. Please.
+INIGO: Offer me everything I ask for.
+RUGEN: Anything you want.
+INIGO: <stab> I want my father back, you son of a bitch. <stab>
+        <stagger>
+
+BUTTERCUP: Oh Westley, will you ever forgive me?
+WESTLEY: What hideous sin have you committed lately?
+BUTTERCUP: I got married. I didn't want to; it all happened so fast.
+WESTLEY: It never happened.
+BUTTERCUP: What?
+WESTLEY: It never happened!
+BUTTERCUP: But it did! I was there! This old man said "man and wife!"
+WESTLEY: Did you say "I do"?
+BUTTERCUP: Oh, no... we sort of skipped that part.
+WESTLEY: Then you're not married. You didn't say it, you didn't do it.   
+        ...Wouldn't you agree, your Highness?
+PRINCE: A technicality that will shortly be remedied. But first things first.
+        To the death!
+WESTLEY: No! To the pain.
+PRINCE: I don't think I'm quite familiar with that phrase.
+WESTLEY: I'll explain. And I'll use small words so you'll be sure to 
+        understand, you warthog-faced buffoon.
+PRINCE: That may be the first time in my life a man has dared insult me.
+WESTLEY: It won't be the last. "To the pain" means the first thing you lose 
+        will be the feet, below the ankles. Then your hands, at the wrists; 
+        next, your nose.
+PRINCE: And then my tongue, I suppose. I killed you too quickly the last 
+        time, a mistake I don't mean to duplicate tonight.
+WESTLEY: I wasn't finished! The next thing you lose will be your left eye, 
+        followed by your right.
+PRINCE: And then my ears, I understand, let's get on with it.
+WESTLEY: Wrong! Your ears you keep, and I'll tell you why: so that every 
+        shriek of every child at seeing your hideousness will be yours to 
+        cherish; every babe that weeps at your approach, every woman who 
+        cries out, "Dear God, what is that THING?" will echo in your perfect 
+        ears. That is what "to the pain" means; it means I will leave you in 
+        agony, wallowing in freakish misery forever.
+PRINCE: I think you're bluffing.
+WESTLEY: It's possible, pig. I might be bluffing. It's conceivable, you 
+        miserable vomitous mass, that I'm only lying here because I lack the 
+        strength to stand. Then again... perhaps I have the strength after 
+        all.
+        <stands>
+        Drop... your... sword.
+        <clatter>
+        Have a seat.
+        <sits>
+        Tie him up. Make it as tight as you like. <ow!>
+INIGO: Where's Fezzik?
+WESTLEY: I thought he was with you.
+INIGO: No.
+WESTLEY: In that case <mmm>...
+INIGO: Help him.
+BUTTERCUP: Why does Westley need helping?
+INIGO: Because he has no strength.
+PRINCE: I knew it! I knew you were bluffing! I knew he was... bluffing.
+INIGO: Shall I dispatch him for you?
+WESTLEY: Thank you, but no. Whatever happens to us, I want him to live a long
+        life, alone with his cowardice.
+FEZZIK: Inigo! Inigo! Where are you? Oh, there you are. Inigo, I was at the
+        Prince's stables, and there they were-- four white horses. And I
+        thought, there are four of us-- if we ever find the lady... hello,
+        lady!... so I took them with me, in case we ever bumped into each
+        other. And I guess we just did.
+INIGO: Fezzik, you did something right.
+FEZZIK: Don't worry. I won't let it go to my head.
+        <leap>
+        <catch>
+INIGO: You know, it's very strange... I have been in the revenge business so
+        long; now that it's over, I don't know what to do with the rest of
+        my life.
+WESTLEY: Have you ever considered piracy? You'd make a wonderful Dread
+        Pirate Roberts.
+
+        <gallop>
+GRANDPA: They rode to freedom, and as dawn arose, Westley and Buttercup knew 
+        they were safe. A wave of love swept over them; and as they reached 
+        for each other--
+------------------
+KID: What? What??
+GRANDPA: Nah, it's kissing again. You don't wanna hear that.
+KID: Well... I don't mind so much.
+GRANDPA: Ah... okay. "Since the invention of the kiss, there have been five 
+        kisses that were rated the most passionate, the most pure. This one 
+        left them all behind." The end. Now, I think you oughtta go to sleep.
+KID: Okay.
+GRANDPA: All right. Okay. ...Okay. ...Okay. All right. So long.
+KID: Grandpa? ...Maybe you could come over and read it again to me tomorrow.
+GRANDPA: As you wish.
+
+*******************
+
+Yeah, I know it's not perfect. There are spots where Fezzik's mumbling or
+Westley's rapid-fire talk defeated even the most diligent attempts to
+decipher them. Though those parts are few, they can be found easily-- they're
+marked with a <something>. If you can fill those blanks in, feel free. I'd
+appreciate a correction as well. Oh well... enjoy the rest.
+
