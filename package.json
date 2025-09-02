@@ -1,0 +1,25 @@
+{
+  "name": "async-workshop",
+  "version": "1.0.0",
+  "description": "Typescript asynchronous code examples.",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "execute": "npx ts-node src/index.ts",
+    "clean": "rm -rf dist",
+    "test": "mocha --require ts-node/register --timeout 10000 --extension .spec.ts --recursive test"
+  },
+  "author": "Kyle Chin",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chai": "4.3.0",
+    "@types/chai-as-promised": "7.1.4",
+    "@types/mocha": "10.0.1",
+    "@types/node": "^24.3.0",
+    "chai": "4.3.4",
+    "chai-as-promised": "7.1.1",
+    "mocha": "^11.7.1",
+    "ts-node": "^10.9.2",
+    "typescript": "5.7.2"
+  }
+}
