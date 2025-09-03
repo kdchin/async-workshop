@@ -1,3 +1,11 @@
+# Node
 node_modules/
+
+# TS
 dist/
-.DS_Store
+
+# Yarn
+.yarn/
+
+# IDE
+.idea/

@@ -1,14 +1,13 @@
 {
 	"compilerOptions": {
-    "target": "es2020",
+		"module": "NodeNext",
+    	"target": "esnext",
+	    "moduleResolution": "nodenext",
 		"outDir": "dist",
 		"noImplicitAny": true,
 		"removeComments": true,
 		"preserveConstEnums": true,
-		"sourceMap": true,
-		"typeRoots": [
-			"./node_modules/@types"
-		]
+		"sourceMap": true
 	},
 	"include": [
 		"src/**/*.ts",

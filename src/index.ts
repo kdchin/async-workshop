@@ -2,9 +2,8 @@ import { logLinesWithKeywordCallback, getAllKeywordLines, getAllKeywordLinesSlow
 
 async function main() {
     // sample invocations
-    console.log(logLinesWithKeywordCallback('./data/bee-movie-script.txt', 'jazz')); // why doesn't this work?
-    const data = await getAllKeywordLines('./data/', 'jazz');
-    console.log(data);
+    const numLines = logLinesWithKeywordCallback('./data/bee-movie-script.txt', 'jazz')
+    console.log(`[logLinesWithKeywordCallback] Found ${numLines} matching lines`); // why doesn't this work?
 }
 
 main();
