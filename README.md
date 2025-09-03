@@ -2,15 +2,21 @@
 
 In this workshop, you will:
 
-- learn how to use and translate between thee asynchronous concepts in TypeScript
-- understand how asyncronicity impacts ordering of code execution
+- learn how to use and translate between three asynchronous concepts in TypeScript
+- understand how asynchronicity impacts ordering of code execution
 - learn how to test asynchronous code
 
 A reference solution is found on the `solution` branch.
-We recommend you practice this exeercie **without** AI tools -- it's meant to help you learn!
+We recommend you practice this exercise **without** AI tools -- it's meant to help you learn!
 
 The exercises for you to complete are specified below.
-Please check in with your TA to discuss your answers once you are complete!
+Please check in with your TA to discuss your answers once you are done!
+
+## Requirements
+
+This workshop uses the same tooling as the project. In order to participate, you will need to have your machine
+setup for development. If you haven't already, please download the tools specified in the
+ReadMe of your project repository (e.g. nodejs, yarn).
 
 ## Commands for getting started
 These are specified in [package.json](package.json) if you are curious or want to edit!
@@ -42,35 +48,35 @@ yarn test
 
 ## Exercises
 
-The code you will be writing identifies lines from movie script(s) that contain keywords.
+The code you will be writing identifies lines from movie scripts that contain keywords.
 
 
 #### 0. Examine `logLinesWithKeywordCallback`
 
-This function is defined in [src/readfile.tx](src/readfile.ts). You can run it with the following command:
+This function is defined in [src/readfile.ts](src/readfile.ts). You can run it with the following command:
 
 ```sh
 yarn execute
 ```
 
-**Question 0.A:** In plain English does this function do? Is the provided JSDoc comment complete? If not, add the missing information to the JSDoc.
+**Question 0.A:** In plain English, what does this function do? Is the provided JSDoc comment complete? If not, add the missing information to the JSDoc.
 
 **Question 0.B:** Do the results of the `console.log` and the return value of the function match up? Why not? In your explanation, reference the possible orders of executions of the annotated lines of code.
 
 #### 1. Translate to use Promises
 
-Using `fs.promises.readFile()`, fill in `logLinesWithKeywordPromise` so that it behaves the same as `logLinesWithKeywordCallback` but uses the Promise syntax (using `.then()`) and verify it by modifying and running [src/main.tx](src/main.ts).
+Using `fs.promises.readFile()`, fill in `logLinesWithKeywordPromise` so that it behaves the same as `logLinesWithKeywordCallback` but uses the Promise syntax (using `.then()`) and verify it by modifying and running [src/index.ts](src/index.ts).
 
-**Question 1.A:** Which version do you like better (or do you like them about the same)? WHy?
+**Question 1.A:** Which version do you like better (or do you like them about the same)? Why?
 
 **Question 1.B:** Does the bug from **0.B** still exist? Why? In your explanation, reference the possible orders of executions of the lines of code.
 
 
 #### 2. Translate to use `await`
 
-Now, uing `async/await` syntax, fill in `logLinesWithKeywordAwait` and verify it works by modifying and running [src/main.tx](src/main.ts).
+Now, using `async/await` syntax, fill in `logLinesWithKeywordAwait` and verify it works by modifying and running [src/index.ts](src/index.ts).
 
-**Question 2.A:** Which version do you like better (or do you like them all about the same)? WHy?
+**Question 2.A:** Which version do you like better (or do you like them all about the same)? Why?
 
 **Question 2.B:** Does the bug from **0.B** and **1.B** still exist? Why or why not? In your explanation, reference the possible orders of executions of the lines of code.
 

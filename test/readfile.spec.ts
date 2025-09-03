@@ -1,5 +1,5 @@
-import { expect } from 'chai';
-import { getLinesWithKeyword, getAllKeywordLines } from '../src/readfile';
+import {expect} from 'chai';
+import {getLinesWithKeyword, getAllKeywordLines, LinesError} from '../src/readfile';
 
 describe('getLinesWithKeyword', () => {
     // TODO: add a test for the successful case!
@@ -8,7 +8,7 @@ describe('getLinesWithKeyword', () => {
             const result = await getLinesWithKeyword("data/does-not-exist.txt", "jazz");
             expect.fail("If this line was reached, it means that the invocation ran without an error. This is incorrect, because we expect it to error when the file does not exist!!");
         } catch (e) {
-            expect(e).to.be.equal('Error!!');
+            expect(e).to.be.an.instanceOf(LinesError);
         }
     })
 });

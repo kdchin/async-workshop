@@ -2,6 +2,10 @@
   "name": "async-workshop",
   "version": "1.0.0",
   "description": "Typescript asynchronous code examples.",
+  "packageManager": "yarn@4.9.3",
+  "engines": {
+    "node": ">= 24 < 25"
+  },
   "main": "src/index.ts",
   "scripts": {
     "build": "tsc",

@@ -1,5 +1,12 @@
 import * as fs from 'fs';
 
+export class LinesError extends Error {
+    constructor(message?: string) {
+        super(message);
+        Error.captureStackTrace(this, LinesError);
+    }
+}
+
 /**
  * 
  * @param filePath - path to the file to read
@@ -8,6 +15,7 @@ import * as fs from 'fs';
  * Using callbacks, logs out each line in the file at `filePath` that contains `keyword`.
  */
 function logLinesWithKeywordCallback(filePath: string, keyword: string): number {
+    console.log(`Looking for lines with the keyword ${keyword}...`);
     let count = 0
     fs.readFile(filePath, 'utf-8', (err, data) => {
         if (err) {
@@ -17,8 +25,8 @@ function logLinesWithKeywordCallback(filePath: string, keyword: string): number 
         const lines = data.split(/\r?\n/);
         for (const line of lines) {
             if (line.includes(keyword)) {
-                console.log(line);
                 count++;
+                console.log(`Matching Line #${count}: ${line}`);
             }
         }
     });
