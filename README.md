@@ -18,6 +18,12 @@ This workshop uses the same tooling as the project. In order to participate, you
 setup for development. If you haven't already, please download the tools specified in the
 ReadMe of your project repository (e.g. nodejs, yarn).
 
+1. [Install git](https://git-scm.com/downloads) (v2.X). You should be able to execute `git --version` on the command line after installation is complete.
+
+1. [Install Node (Current)](https://nodejs.org/en/download/) (Current: v24.X), which will also install NPM (you should be able to execute `node --version` and `npm --version` on the command line).
+
+1. [Install Yarn](https://yarnpkg.com/en/docs/install) (1.22.X). You should be able to execute `yarn --version`.
+
 ## Commands for getting started
 These are specified in [package.json](package.json) if you are curious or want to edit!
 
